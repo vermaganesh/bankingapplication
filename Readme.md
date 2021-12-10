@@ -2,12 +2,7 @@
 
  <p align="center">
     Welcome to Sparks Bank!! Explore & transfer money among different users accounts.
-    <br />
-    <a href="https://github.com/EasyKiLL7/Basic-Banking-App/">View Demo</a>
-    ·
-    <a href="https://github.com/EasyKiLL7/Basic-Banking-App/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/EasyKiLL7/Basic-Banking-App/issues">Request Feature</a>
+
   </p>
 </p>
  
