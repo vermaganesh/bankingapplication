@@ -44,9 +44,9 @@ url.
 <!-- CONTACT -->
 ## Contact
 
-Amar Singh - [@link](https://www.linkedin.com/in/amarsingh371/) - amarsingh07171@gmail.com
+Ganesh Verma - [@link](https://www.linkedin.com/in/ganesh-verma-879158203/) - ganeshnv0.com
 
-Project Link: [https://github.com/EasyKiLL7/Basic-Banking-Appg](https://github.com/EasyKiLL7/Basic-Banking-App/issues)
+Project Link: [https://github.com/vermaganesh/bankingapplication]
 
  
 
