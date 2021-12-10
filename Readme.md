@@ -44,7 +44,7 @@ url.
 <!-- CONTACT -->
 ## Contact
 
-Ganesh Verma - [@link](https://www.linkedin.com/in/ganesh-verma-879158203/) - ganeshnv0.com
+Ganesh Verma - [@link](https://www.linkedin.com/in/ganesh-verma-879158203/) - ganeshnv0@gmail.com
 
 Project Link: [https://github.com/vermaganesh/bankingapplication]
 
